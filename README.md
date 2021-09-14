@@ -1,2 +1,2 @@
 # Pandas_window_func
-Using Pandas to mimic SQL window functions 
+Using Python and Pandas to mimic SQL window functions 
